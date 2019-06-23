@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560866202 source:d:\coding\cpprealg\c_proj_rep\opencdman\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+
